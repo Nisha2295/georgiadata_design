@@ -1,0 +1,2 @@
+# georgiadata_design
+frontend
